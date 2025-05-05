@@ -3,7 +3,7 @@
 A small group of idiots who occasionally write software.
 
 * **Website**: [jacobempire.uk](https://jacobempire.uk/home/)
-* **Wiki**: [wiki.jacobempire.uk](https://wiki.jacobempire.uk)
+* ~~**Wiki**: [wiki.jacobempire.uk](https://wiki.jacobempire.uk)~~
 * **Minecraft Mods**: [jacobempire.uk/jerry](https://jacobempire.uk/jerry/)
 * **Discord**: [Ìmpireachd Iacoib](https://jacobempire.uk/discord)
 
